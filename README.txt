@@ -1,0 +1,1 @@
+Simple tool to (re)encode all subtitles to UTF8 with BOM
